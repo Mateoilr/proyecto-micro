@@ -36,4 +36,4 @@ npm run start:dev
 
 5. El servidor responde con la hora actual, que es recibida por el cliente.
 
-6. También se puede probar accediendo a la URL `http://localhost:3000/time` para obtener la hora actual desde el servidor directamente.
+6. Se puede probar accediendo a la URL `http://localhost:3000/time` para obtener la hora actual desde el servidor directamente.
